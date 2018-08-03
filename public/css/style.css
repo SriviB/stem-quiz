@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://files.slack.com/files-pri/TB200QLDV-FC27F504C/image1.jpeg");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 450px;
+  background-color: lavender; 
+}
+#title {
+  color: black;
+  text-align: left;
+  font-size: 80px;
+  font-family: sans serif;
+  font-style: italic;
+}
+
+.quiz {
+  color: darkred;
+  text-align: center;
+  position: absolute;
+  top: 500px;
+  left: 290px;
+}
+#class {
+  border: dotted;
+  border-color: lightcoral;
+  border-width: 50px;
+}
